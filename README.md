@@ -1,2 +1,2 @@
-# Automacao-Login
-Projeto de automação de tela de login e compra de produtos com python
+# Compra Online feita por Automação
+Projeto de automação adicionando produtos e realizando compras, com tela de login e checkout.
